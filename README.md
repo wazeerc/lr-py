@@ -8,7 +8,7 @@ This project demonstrates a simple linear regression model to analyze the relati
 ## Project Structure
 
 - `data/`: Directory containing the car price dataset
-  - `car_price_dataset.csv`: Dataset with car prices and manufacturing years
+  - `car_price_dataset.csv`: [Dataset](https://www.kaggle.com/datasets/asinow/car-price-dataset) with car prices and manufacturing years
 - `notebooks/`: Directory containing Jupyter notebooks for analysis
   - `linear_regression.ipynb`: Notebook implementing linear regression to predict car prices
 
